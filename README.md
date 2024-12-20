@@ -27,7 +27,7 @@ Este proyecto es una API backend construida con **Node.js**, **Express**, y **Se
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Marttify/db_app_testing-courses.git
    cd tu-repo
    ```
 
